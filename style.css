@@ -1,0 +1,89 @@
+body{
+    font-family: 'Roboto', sans-serif;
+}
+.image-size{
+    height: 350px;
+    width: 400px;
+}
+.image{
+    width: 30%;
+}
+.penguin-col{
+    height: 20.1em;
+}
+.section-bg{
+    background-color:rgb(253, 248, 248);
+}
+h1{
+    font-size: 60px;
+    color:midnightblue;
+}
+h2{
+    font-size: 60px;
+    color: white;
+}
+h4{
+    font-weight: 800;
+    color: tomato;
+}
+.font{
+    font-size: 50px;
+}
+.icon-size {
+    height: 18%;
+    width: 18%;
+}
+.card-icon-size{
+    height: 90%;
+    width: 20%;
+}
+.card-img{
+    height: 330px;
+    width: 300px;
+}
+.penguin-card{ 
+    border:0;
+    border-radius: 10px;
+}
+.img-design{
+    border-radius: 20px;
+}
+.text-color{
+    color: midnightblue;
+}
+.outer-card{
+    border: 0px;
+    margin-left: 10px;
+    border-radius: 20px;
+    width: 390px;
+    margin-left: 0px;
+}
+.inner-card{
+    border: 0px;
+    width: 340px;
+    border-radius: 10px;
+    margin-left: 12px;
+}
+#card2,#card3{
+    margin-left: 50px;
+}
+.img-style{
+    height: 500px;
+    width: 750px;
+}
+.col-img-size{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+}
+.box-size{
+    width: 400px;
+    height: 120px;
+}
+.img-size{
+    width: 65%;
+    height: 75%;
+}
+.highlight{
+    color: silver;
+}
